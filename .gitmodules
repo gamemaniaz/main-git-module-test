@@ -1,0 +1,3 @@
+[submodule "sub-git-module-test"]
+	path = sub-git-module-test
+	url = git@github.com:gamemaniaz/sub-git-module-test.git
